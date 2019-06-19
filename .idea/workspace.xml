@@ -133,12 +133,12 @@
   </component>
   <component name="RunManager" selected="Application.MarkAndToys">
     <configuration name="AppleAndOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leticia.AppleAndOrange" />
+      <option name="MAIN_CLASS_NAME" value="com.leticia.old.AppleAndOrange" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leticia.*" />
+          <option name="PATTERN" value="com.leticia.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +147,12 @@
       </method>
     </configuration>
     <configuration name="DayOfTheProgrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leticia.DayOfTheProgrammer" />
+      <option name="MAIN_CLASS_NAME" value="com.leticia.old.DayOfTheProgrammer" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leticia.*" />
+          <option name="PATTERN" value="com.leticia.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +161,12 @@
       </method>
     </configuration>
     <configuration name="MarkAndToys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leticia.MarkAndToys" />
+      <option name="MAIN_CLASS_NAME" value="com.leticia.june.MarkAndToys" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leticia.*" />
+          <option name="PATTERN" value="com.leticia.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +175,12 @@
       </method>
     </configuration>
     <configuration name="PatternSyntaxChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leticia.PatternSyntaxChecker" />
+      <option name="MAIN_CLASS_NAME" value="com.leticia.old.PatternSyntaxChecker" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leticia.*" />
+          <option name="PATTERN" value="com.leticia.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +189,12 @@
       </method>
     </configuration>
     <configuration name="TwoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leticia.TwoStrings" />
+      <option name="MAIN_CLASS_NAME" value="com.leticia.old.TwoStrings" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leticia.*" />
+          <option name="PATTERN" value="com.leticia.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

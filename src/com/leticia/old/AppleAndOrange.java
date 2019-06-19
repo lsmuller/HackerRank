@@ -1,4 +1,4 @@
-package com.leticia;
+package com.leticia.old;
 
 //https://www.hackerrank.com/challenges/apple-and-orange/
 public class AppleAndOrange {

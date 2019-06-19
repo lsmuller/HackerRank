@@ -1,4 +1,4 @@
-package com.leticia;
+package com.leticia.old;
 
 public class GradingStudents {
 

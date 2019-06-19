@@ -1,7 +1,6 @@
-package com.leticia;
+package com.leticia.old;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
 

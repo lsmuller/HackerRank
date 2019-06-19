@@ -1,4 +1,4 @@
-package com.leticia;
+package com.leticia.june;
 
 import java.util.Arrays;
 
